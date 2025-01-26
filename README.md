@@ -69,9 +69,9 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 ---
 
 ## **Author**
-[Your Name]  
-[Your Email]  
-[Your GitHub Profile]
+Martin Gräbing
+kontakt@duesseldorp.de
+https://www.github.com/duesseldorp
 
 ---
 
